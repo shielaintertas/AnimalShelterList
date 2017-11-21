@@ -16,12 +16,12 @@ public class Employee {
 		return employeeId;
 	}
 	
-	public void setFirstName (String firstName){
+	public void setName (String name){
 		this.firstName = firstName;
 	}
 	
-	public int getFirstName(){
-		return firstName;
+	public int getName(){
+		return name;
 	}
 	
 }
